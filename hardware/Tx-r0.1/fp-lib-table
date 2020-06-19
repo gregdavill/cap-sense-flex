@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "sliding-strip")(type "KiCad")(uri "${KIPRJMOD}/sliding-strip.pretty")(options "")(descr ""))
+)
