@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "cap-sense-flex")(type "KiCad")(uri "/home/greg/projects/cap-sense-flex/hardware/LIB/cap-sense-flex.kicad_sym")(options "")(descr ""))
+)
